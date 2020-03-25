@@ -9,7 +9,7 @@
     "d3": "^4.5.1",
     "electron": "^1.4.14",
     "libphonenumber-js": "^1.6.9",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "md5": "^2.2.1",
     "moment": "^2.22.2",
     "monster": "^0.1.1",
